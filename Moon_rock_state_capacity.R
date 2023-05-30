@@ -1,8 +1,5 @@
 ## Moon rock locatability - state capacity graph ##
 
-setwd("~/OneDrive - Imperial College London/Roughly Remembered")
-getwd()
-
 library(tidyverse)
 library(ggthemes)
 library(janitor)
